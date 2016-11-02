@@ -1,0 +1,6 @@
+c:\users\nathalie\documents\visual studio 2015\Projects\TPextensionExpressionLambda\MyExtension\bin\Debug\MyExtension.exe.config
+c:\users\nathalie\documents\visual studio 2015\Projects\TPextensionExpressionLambda\MyExtension\obj\Debug\MyExtension.csprojResolveAssemblyReference.cache
+c:\users\nathalie\documents\visual studio 2015\Projects\TPextensionExpressionLambda\MyExtension\bin\Debug\MyExtension.exe
+c:\users\nathalie\documents\visual studio 2015\Projects\TPextensionExpressionLambda\MyExtension\bin\Debug\MyExtension.pdb
+c:\users\nathalie\documents\visual studio 2015\Projects\TPextensionExpressionLambda\MyExtension\obj\Debug\MyExtension.exe
+c:\users\nathalie\documents\visual studio 2015\Projects\TPextensionExpressionLambda\MyExtension\obj\Debug\MyExtension.pdb
